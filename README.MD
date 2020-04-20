@@ -1,4 +1,4 @@
-<h1>A SIMPLE QUERY BUILDER FOR LEARNING<h1>
+<h1>A SIMPLE QUERY BUILDER JUST FOR LEARNING<h1>
 <h2>HOW TO USE<h2>
 <h5>
 <p>db.insert("buku").field(data[0]).value(data[1]).println();<br>
